@@ -1,10 +1,10 @@
-##### **The Problem**
+### **The Problem**
 
 Write a Java method that checks whether a given string is a palindrome. A palindrome is a word, phrase, or sequence that reads the same backward as forward (ignoring spaces, punctuation, and capitalization).
 
 
 
-##### **How to Approach This Problem**
+### **How to Approach This Problem**
 
 * **Clean the Input:** Before comparing characters, convert the entire string to lowercase and remove any spaces or non-alphanumeric characters so only letters and numbers remain.
 
@@ -22,7 +22,7 @@ Write a Java method that checks whether a given string is a palindrome. A palind
 
 
 
-##### **Examples**
+### **Examples**
 
 
 
